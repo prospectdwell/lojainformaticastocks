@@ -1,4 +1,4 @@
-# lojainformaticastocks
+# loja informatica - tema stock
 Projeto de DSBD SQL
 
 
